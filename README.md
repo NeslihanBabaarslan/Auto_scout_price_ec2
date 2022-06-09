@@ -1,0 +1,1 @@
+# auto_scout_price_ec2
